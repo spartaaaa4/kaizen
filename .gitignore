@@ -9,3 +9,8 @@ vite.config.ts.*
 .env
 .env.local
 .env.*.local
+
+# graphify machine-specific internals (regenerable; contain local paths)
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+graphify-out/cache/

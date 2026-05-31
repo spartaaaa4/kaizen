@@ -1,0 +1,1247 @@
+{
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/tailwind.config.ts": {
+    "mtime": 1780204600.7404943,
+    "ast_hash": "c772200707ca084c6c97ed131fbcabbe",
+    "semantic_hash": "c772200707ca084c6c97ed131fbcabbe"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/package.json": {
+    "mtime": 1780204600.7378075,
+    "ast_hash": "55f50d51f1b9ed32f3e1d4ed777e644b",
+    "semantic_hash": "55f50d51f1b9ed32f3e1d4ed777e644b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/components.json": {
+    "mtime": 1780204600.7300997,
+    "ast_hash": "a76a349f7de9f7618cd959569a5bab34",
+    "semantic_hash": "a76a349f7de9f7618cd959569a5bab34"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/tsconfig.json": {
+    "mtime": 1780204600.7405493,
+    "ast_hash": "1e0fa60a1abb0b4bfeed3e2613a5bfff",
+    "semantic_hash": "1e0fa60a1abb0b4bfeed3e2613a5bfff"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/drizzle.config.ts": {
+    "mtime": 1780204600.7304463,
+    "ast_hash": "51b0e64c197adc56bd2906e038fe9f5f",
+    "semantic_hash": "51b0e64c197adc56bd2906e038fe9f5f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/vite.config.ts": {
+    "mtime": 1780204600.7406065,
+    "ast_hash": "858a36e388759a5368b2c8e51eb8a06a",
+    "semantic_hash": "858a36e388759a5368b2c8e51eb8a06a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/postcss.config.js": {
+    "mtime": 1780204600.737866,
+    "ast_hash": "ef3ba2a81ba19f8ea5ddf625521e96f0",
+    "semantic_hash": "ef3ba2a81ba19f8ea5ddf625521e96f0"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/playwright-fixture.ts": {
+    "mtime": 1780204600.7017758,
+    "ast_hash": "c6b1bf0400f214c8a880d32f4c2a31f8",
+    "semantic_hash": "c6b1bf0400f214c8a880d32f4c2a31f8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/tsconfig.node.json": {
+    "mtime": 1780204600.7101297,
+    "ast_hash": "1417fb05378a1d1102f085e60b20db0e",
+    "semantic_hash": "1417fb05378a1d1102f085e60b20db0e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/tsconfig.app.json": {
+    "mtime": 1780204600.7100005,
+    "ast_hash": "9036c95ea413f9a07f9aa5c7650861a6",
+    "semantic_hash": "9036c95ea413f9a07f9aa5c7650861a6"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/tailwind.config.ts": {
+    "mtime": 1780204600.7099428,
+    "ast_hash": "0e4c80e0c538b2bbbdcadf0f9310d20b",
+    "semantic_hash": "0e4c80e0c538b2bbbdcadf0f9310d20b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/package.json": {
+    "mtime": 1780204600.701698,
+    "ast_hash": "9940657e807295659ff1c3a3a890867c",
+    "semantic_hash": "9940657e807295659ff1c3a3a890867c"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/components.json": {
+    "mtime": 1780204600.7004042,
+    "ast_hash": "a547944ace00dc5d5373aaca70a40bc4",
+    "semantic_hash": "a547944ace00dc5d5373aaca70a40bc4"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/tsconfig.json": {
+    "mtime": 1780204600.7100632,
+    "ast_hash": "bb72695c901d34a52a46196ba258371d",
+    "semantic_hash": "bb72695c901d34a52a46196ba258371d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/playwright.config.ts": {
+    "mtime": 1780204600.701878,
+    "ast_hash": "98660afe9a3781e2b1e7a0d576915935",
+    "semantic_hash": "98660afe9a3781e2b1e7a0d576915935"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/eslint.config.js": {
+    "mtime": 1780204600.7004814,
+    "ast_hash": "31c0881fdd8500aa4d0aa963079713ae",
+    "semantic_hash": "31c0881fdd8500aa4d0aa963079713ae"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/vite.config.ts": {
+    "mtime": 1780204600.7101927,
+    "ast_hash": "978c0733ad7195aa171e5d7f71b2dccf",
+    "semantic_hash": "978c0733ad7195aa171e5d7f71b2dccf"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/vitest.config.ts": {
+    "mtime": 1780204600.7102616,
+    "ast_hash": "9285ab80c07d5cd1a71aa20c1687352a",
+    "semantic_hash": "9285ab80c07d5cd1a71aa20c1687352a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/postcss.config.js": {
+    "mtime": 1780204600.701958,
+    "ast_hash": "c735540bb63936a123bc867d950c9f69",
+    "semantic_hash": "c735540bb63936a123bc867d950c9f69"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/App.tsx": {
+    "mtime": 1780204600.703472,
+    "ast_hash": "b35be80a65f97e1eb391702d27c62b51",
+    "semantic_hash": "b35be80a65f97e1eb391702d27c62b51"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/main.tsx": {
+    "mtime": 1780204600.7091002,
+    "ast_hash": "092c6937f28c1dff19a7d561f5f98360",
+    "semantic_hash": "092c6937f28c1dff19a7d561f5f98360"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/vite-env.d.ts": {
+    "mtime": 1780204600.7098699,
+    "ast_hash": "0352474ba2918efe13895edbc3780d94",
+    "semantic_hash": "0352474ba2918efe13895edbc3780d94"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/contexts/MinimalModeContext.tsx": {
+    "mtime": 1780204600.7086835,
+    "ast_hash": "d873d827612440f248b85599b3cff73e",
+    "semantic_hash": "d873d827612440f248b85599b3cff73e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/test/example.test.ts": {
+    "mtime": 1780204600.70973,
+    "ast_hash": "f7aec10728902324d57cf05ee8a8e57e",
+    "semantic_hash": "f7aec10728902324d57cf05ee8a8e57e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/test/setup.ts": {
+    "mtime": 1780204600.709803,
+    "ast_hash": "3ed816a7adf0e76610ce76bd32744ea0",
+    "semantic_hash": "3ed816a7adf0e76610ce76bd32744ea0"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ProcessingOverlay.tsx": {
+    "mtime": 1780204600.703948,
+    "ast_hash": "4921100d59b761fff8be90b2a8116941",
+    "semantic_hash": "4921100d59b761fff8be90b2a8116941"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ReviewQueuePanel.tsx": {
+    "mtime": 1780204600.7041395,
+    "ast_hash": "86efc757a36fa851fab361a58e9e7f38",
+    "semantic_hash": "86efc757a36fa851fab361a58e9e7f38"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ProductCard.tsx": {
+    "mtime": 1780204600.7040422,
+    "ast_hash": "2384148599badba5c0aa2536498d743e",
+    "semantic_hash": "2384148599badba5c0aa2536498d743e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/GapFillDialog.tsx": {
+    "mtime": 1780204600.703732,
+    "ast_hash": "5f525d43db710c9b40e94d76d85ff875",
+    "semantic_hash": "5f525d43db710c9b40e94d76d85ff875"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/MinimalModeToggle.tsx": {
+    "mtime": 1780204600.7037952,
+    "ast_hash": "1d8f8f9a6981d0758b62a721343984e4",
+    "semantic_hash": "1d8f8f9a6981d0758b62a721343984e4"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/AddProductModal.tsx": {
+    "mtime": 1780204600.7036285,
+    "ast_hash": "ceb7a334e8e621d344ff97bdaf3ca101",
+    "semantic_hash": "ceb7a334e8e621d344ff97bdaf3ca101"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ParticleBackground.tsx": {
+    "mtime": 1780204600.7038746,
+    "ast_hash": "b3d8733fd603ffdcaca583e5046a67a5",
+    "semantic_hash": "b3d8733fd603ffdcaca583e5046a67a5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/tabs/KnowledgeTab.tsx": {
+    "mtime": 1780204600.7046185,
+    "ast_hash": "a2b536de229985229394f34b3e32f205",
+    "semantic_hash": "a2b536de229985229394f34b3e32f205"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/tabs/DocumentsTab.tsx": {
+    "mtime": 1780204600.7044654,
+    "ast_hash": "0c7995afb7db4031edcc149869a07fd1",
+    "semantic_hash": "0c7995afb7db4031edcc149869a07fd1"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/tabs/PersonasTab.tsx": {
+    "mtime": 1780204600.7047298,
+    "ast_hash": "40502ef2615b1ade654573500af294c9",
+    "semantic_hash": "40502ef2615b1ade654573500af294c9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/tabs/ChatTab.tsx": {
+    "mtime": 1780204600.7043087,
+    "ast_hash": "a2a709bcad44df68b0400263255dca58",
+    "semantic_hash": "a2a709bcad44df68b0400263255dca58"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/aspect-ratio.tsx": {
+    "mtime": 1780204600.7052417,
+    "ast_hash": "c5c364545e1b25a94e9e752cd67ad048",
+    "semantic_hash": "c5c364545e1b25a94e9e752cd67ad048"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/alert-dialog.tsx": {
+    "mtime": 1780204600.7051017,
+    "ast_hash": "2ee6c5e5e070315114319bc060d17a52",
+    "semantic_hash": "2ee6c5e5e070315114319bc060d17a52"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/pagination.tsx": {
+    "mtime": 1780204600.7069879,
+    "ast_hash": "a3ced9f9b19826b467d788b1bf01746f",
+    "semantic_hash": "a3ced9f9b19826b467d788b1bf01746f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/tabs.tsx": {
+    "mtime": 1780204600.7080972,
+    "ast_hash": "26b15e1ffce0f831be4da95b8f8a43df",
+    "semantic_hash": "26b15e1ffce0f831be4da95b8f8a43df"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/card.tsx": {
+    "mtime": 1780204600.7056775,
+    "ast_hash": "202402023747c80d975f48b906e6eb1b",
+    "semantic_hash": "202402023747c80d975f48b906e6eb1b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/slider.tsx": {
+    "mtime": 1780204600.7078152,
+    "ast_hash": "e3bf7b6116ddbdbe8c7b3597d07daee0",
+    "semantic_hash": "e3bf7b6116ddbdbe8c7b3597d07daee0"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/popover.tsx": {
+    "mtime": 1780204600.7070582,
+    "ast_hash": "c056d22288a642b756b77c7691ad4532",
+    "semantic_hash": "c056d22288a642b756b77c7691ad4532"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/progress.tsx": {
+    "mtime": 1780204600.70712,
+    "ast_hash": "58ddbf5380b1e9487bba56aa15de33c7",
+    "semantic_hash": "58ddbf5380b1e9487bba56aa15de33c7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/toaster.tsx": {
+    "mtime": 1780204600.708301,
+    "ast_hash": "1903846ab268620de6356ef667e3fa21",
+    "semantic_hash": "1903846ab268620de6356ef667e3fa21"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/input-otp.tsx": {
+    "mtime": 1780204600.7066214,
+    "ast_hash": "3fb5994635434d5168bee869689fc2aa",
+    "semantic_hash": "3fb5994635434d5168bee869689fc2aa"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/chart.tsx": {
+    "mtime": 1780204600.7059085,
+    "ast_hash": "29cfd7470f3197deccd58b2b4f00fbae",
+    "semantic_hash": "29cfd7470f3197deccd58b2b4f00fbae"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/hover-card.tsx": {
+    "mtime": 1780204600.7065609,
+    "ast_hash": "f77f80ed64ff8f3549e5d7e9d837e08e",
+    "semantic_hash": "f77f80ed64ff8f3549e5d7e9d837e08e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/sheet.tsx": {
+    "mtime": 1780204600.707542,
+    "ast_hash": "3660be09e2e40467a22fd46b354c1b50",
+    "semantic_hash": "3660be09e2e40467a22fd46b354c1b50"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/scroll-area.tsx": {
+    "mtime": 1780204600.7073262,
+    "ast_hash": "cfbc224001af0e6daba676de225a2a47",
+    "semantic_hash": "cfbc224001af0e6daba676de225a2a47"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/resizable.tsx": {
+    "mtime": 1780204600.7072632,
+    "ast_hash": "ec681e92cbe705b5571ded11b5227a2a",
+    "semantic_hash": "ec681e92cbe705b5571ded11b5227a2a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/label.tsx": {
+    "mtime": 1780204600.706762,
+    "ast_hash": "cd2b2255bbe519cb0865dfeaa6615797",
+    "semantic_hash": "cd2b2255bbe519cb0865dfeaa6615797"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/sonner.tsx": {
+    "mtime": 1780204600.7078779,
+    "ast_hash": "88644703cc00886c56e0e3b7df0e21d8",
+    "semantic_hash": "88644703cc00886c56e0e3b7df0e21d8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/navigation-menu.tsx": {
+    "mtime": 1780204600.706921,
+    "ast_hash": "77e94b0c299d10c3763d2755bf556916",
+    "semantic_hash": "77e94b0c299d10c3763d2755bf556916"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/accordion.tsx": {
+    "mtime": 1780204600.7048466,
+    "ast_hash": "f9ebb6ee913b44e5f3e06fe1d9679784",
+    "semantic_hash": "f9ebb6ee913b44e5f3e06fe1d9679784"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/drawer.tsx": {
+    "mtime": 1780204600.706342,
+    "ast_hash": "05e2b536fe11649e9b4c6e73678e32a6",
+    "semantic_hash": "05e2b536fe11649e9b4c6e73678e32a6"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/tooltip.tsx": {
+    "mtime": 1780204600.708504,
+    "ast_hash": "d7e923341b9e91d77db45ba5f2fa0cf9",
+    "semantic_hash": "d7e923341b9e91d77db45ba5f2fa0cf9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/alert.tsx": {
+    "mtime": 1780204600.705174,
+    "ast_hash": "354d0206f924d48bcebbb023c3940a6b",
+    "semantic_hash": "354d0206f924d48bcebbb023c3940a6b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/use-toast.ts": {
+    "mtime": 1780204600.7085698,
+    "ast_hash": "4f094014a1315ca1081cbdc7f78d55cc",
+    "semantic_hash": "4f094014a1315ca1081cbdc7f78d55cc"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/switch.tsx": {
+    "mtime": 1780204600.7079449,
+    "ast_hash": "eccd8c41c46e782eaaa1f8be0111e089",
+    "semantic_hash": "eccd8c41c46e782eaaa1f8be0111e089"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/calendar.tsx": {
+    "mtime": 1780204600.7056127,
+    "ast_hash": "1da7a387f28cdb11722da319c0295a6c",
+    "semantic_hash": "1da7a387f28cdb11722da319c0295a6c"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/breadcrumb.tsx": {
+    "mtime": 1780204600.7054777,
+    "ast_hash": "c200fc41e9b214ebb6ccd19a300c42c5",
+    "semantic_hash": "c200fc41e9b214ebb6ccd19a300c42c5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/radio-group.tsx": {
+    "mtime": 1780204600.7071886,
+    "ast_hash": "3773798b5b2f334a5db0dc9c8d06f1b8",
+    "semantic_hash": "3773798b5b2f334a5db0dc9c8d06f1b8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/command.tsx": {
+    "mtime": 1780204600.7061126,
+    "ast_hash": "e911f182b4136a63c601c3fc48b2e9c7",
+    "semantic_hash": "e911f182b4136a63c601c3fc48b2e9c7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/toggle-group.tsx": {
+    "mtime": 1780204600.7083764,
+    "ast_hash": "e82bf234e3877ad708ea3d1dba614def",
+    "semantic_hash": "e82bf234e3877ad708ea3d1dba614def"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/avatar.tsx": {
+    "mtime": 1780204600.7053251,
+    "ast_hash": "53921dca0903c74cd72fada89388d9f8",
+    "semantic_hash": "53921dca0903c74cd72fada89388d9f8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/menubar.tsx": {
+    "mtime": 1780204600.7068448,
+    "ast_hash": "163c3fa58a2b4ea2caa00166f4d862c7",
+    "semantic_hash": "163c3fa58a2b4ea2caa00166f4d862c7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/dialog.tsx": {
+    "mtime": 1780204600.7062747,
+    "ast_hash": "fc3a9626ba52435552c93ac3a74374ec",
+    "semantic_hash": "fc3a9626ba52435552c93ac3a74374ec"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/badge.tsx": {
+    "mtime": 1780204600.705404,
+    "ast_hash": "8db4e6d330f88f4041f81e7cde43782b",
+    "semantic_hash": "8db4e6d330f88f4041f81e7cde43782b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/sidebar.tsx": {
+    "mtime": 1780204600.707677,
+    "ast_hash": "9eab1256b1ffe3f1336eebfd07b319c9",
+    "semantic_hash": "9eab1256b1ffe3f1336eebfd07b319c9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/table.tsx": {
+    "mtime": 1780204600.7080264,
+    "ast_hash": "d0ff87c4734c23839337811378ad07df",
+    "semantic_hash": "d0ff87c4734c23839337811378ad07df"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/separator.tsx": {
+    "mtime": 1780204600.7074594,
+    "ast_hash": "ed1101f185e9dc801712593e3330a75d",
+    "semantic_hash": "ed1101f185e9dc801712593e3330a75d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/button.tsx": {
+    "mtime": 1780204600.7055485,
+    "ast_hash": "b59f5a3c54b63cf3ea4eb2523151f617",
+    "semantic_hash": "b59f5a3c54b63cf3ea4eb2523151f617"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/toggle.tsx": {
+    "mtime": 1780204600.7084386,
+    "ast_hash": "ff7a7deebff23c3488e79ad72ee47e4b",
+    "semantic_hash": "ff7a7deebff23c3488e79ad72ee47e4b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/toast.tsx": {
+    "mtime": 1780204600.7082374,
+    "ast_hash": "7c08b5cb6026058514672a4ebc53847e",
+    "semantic_hash": "7c08b5cb6026058514672a4ebc53847e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/checkbox.tsx": {
+    "mtime": 1780204600.705974,
+    "ast_hash": "cb12d2f3410761f7a678add95c90ac5d",
+    "semantic_hash": "cb12d2f3410761f7a678add95c90ac5d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/collapsible.tsx": {
+    "mtime": 1780204600.7060363,
+    "ast_hash": "934b00582dae08af749fb55469081de6",
+    "semantic_hash": "934b00582dae08af749fb55469081de6"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/dropdown-menu.tsx": {
+    "mtime": 1780204600.7064235,
+    "ast_hash": "f308eb98a2e21bf8bd1e30dbcb741dc0",
+    "semantic_hash": "f308eb98a2e21bf8bd1e30dbcb741dc0"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/select.tsx": {
+    "mtime": 1780204600.7073936,
+    "ast_hash": "25de64d0126624cbd8efa50cfb64bd21",
+    "semantic_hash": "25de64d0126624cbd8efa50cfb64bd21"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/textarea.tsx": {
+    "mtime": 1780204600.7081642,
+    "ast_hash": "29ab470ee59e9da5070d4fba251bce81",
+    "semantic_hash": "29ab470ee59e9da5070d4fba251bce81"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/input.tsx": {
+    "mtime": 1780204600.7066936,
+    "ast_hash": "b8279d768c2a1ce78a05a369a0502877",
+    "semantic_hash": "b8279d768c2a1ce78a05a369a0502877"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/skeleton.tsx": {
+    "mtime": 1780204600.707749,
+    "ast_hash": "c55f76f4faa1d6e888dbc51d41eaa586",
+    "semantic_hash": "c55f76f4faa1d6e888dbc51d41eaa586"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/context-menu.tsx": {
+    "mtime": 1780204600.7061925,
+    "ast_hash": "9b8e8efdf0456cd542e32d341b071cac",
+    "semantic_hash": "9b8e8efdf0456cd542e32d341b071cac"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/form.tsx": {
+    "mtime": 1780204600.706497,
+    "ast_hash": "4bb820d59aad3ee5bc78097596298ace",
+    "semantic_hash": "4bb820d59aad3ee5bc78097596298ace"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/components/ui/carousel.tsx": {
+    "mtime": 1780204600.7057557,
+    "ast_hash": "63a7442a3088b58113c8a8cfc1defe26",
+    "semantic_hash": "63a7442a3088b58113c8a8cfc1defe26"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/hooks/use-mobile.tsx": {
+    "mtime": 1780204600.7087839,
+    "ast_hash": "c0a0bdd4638c391a1dd06ac82074e60b",
+    "semantic_hash": "c0a0bdd4638c391a1dd06ac82074e60b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/hooks/use-toast.ts": {
+    "mtime": 1780204600.7088552,
+    "ast_hash": "e706bc004c87e17db559a113637eddea",
+    "semantic_hash": "e706bc004c87e17db559a113637eddea"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/lib/utils.ts": {
+    "mtime": 1780204600.7090423,
+    "ast_hash": "d9837f38cc05303254571985e3164050",
+    "semantic_hash": "d9837f38cc05303254571985e3164050"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/pages/Dashboard.tsx": {
+    "mtime": 1780204600.709307,
+    "ast_hash": "43d9509b711126ddb32b6ebfa580f44d",
+    "semantic_hash": "43d9509b711126ddb32b6ebfa580f44d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/pages/OrgSetup.tsx": {
+    "mtime": 1780204600.7094898,
+    "ast_hash": "998ecd73df5fb2cc24f047e434a98294",
+    "semantic_hash": "998ecd73df5fb2cc24f047e434a98294"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/pages/ProductDetail.tsx": {
+    "mtime": 1780204600.7095647,
+    "ast_hash": "b9f6e4fe0a690797e6f005c2a106168c",
+    "semantic_hash": "b9f6e4fe0a690797e6f005c2a106168c"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/pages/Welcome.tsx": {
+    "mtime": 1780204600.709634,
+    "ast_hash": "559407552ac4588e4457bdf0cc7caa44",
+    "semantic_hash": "559407552ac4588e4457bdf0cc7caa44"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/src/pages/NotFound.tsx": {
+    "mtime": 1780204600.7093828,
+    "ast_hash": "233617e24ded7876ea905f003f0f2889",
+    "semantic_hash": "233617e24ded7876ea905f003f0f2889"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/.claude/settings.local.json": {
+    "mtime": 1780205348.7448688,
+    "ast_hash": "86de95e369be26d65888a15ba7b9c16b",
+    "semantic_hash": "86de95e369be26d65888a15ba7b9c16b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/vite.ts": {
+    "mtime": 1780204600.7401533,
+    "ast_hash": "e7fd27f4ea072493ec3a6e5c7f4170e5",
+    "semantic_hash": "e7fd27f4ea072493ec3a6e5c7f4170e5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/routes.ts": {
+    "mtime": 1780204600.739355,
+    "ast_hash": "f02a18f9fd954507725348c962c2309e",
+    "semantic_hash": "f02a18f9fd954507725348c962c2309e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/static.ts": {
+    "mtime": 1780204600.7398994,
+    "ast_hash": "04697801f55cd57aa43622cff2731e29",
+    "semantic_hash": "04697801f55cd57aa43622cff2731e29"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/storage.ts": {
+    "mtime": 1780204600.7399788,
+    "ast_hash": "b61710f8d863be24ab3d37e12c4f3814",
+    "semantic_hash": "b61710f8d863be24ab3d37e12c4f3814"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/supabase-storage.ts": {
+    "mtime": 1780204600.7400873,
+    "ast_hash": "b806a21467e2e9a873d4b748e1378a72",
+    "semantic_hash": "b806a21467e2e9a873d4b748e1378a72"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/index.ts": {
+    "mtime": 1780204600.7390633,
+    "ast_hash": "5948fc949cd1b6af7d973efb5a3ced6a",
+    "semantic_hash": "5948fc949cd1b6af7d973efb5a3ced6a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/db.ts": {
+    "mtime": 1780204600.7389784,
+    "ast_hash": "3c9ca3a037d196e78d3275101f1a51da",
+    "semantic_hash": "3c9ca3a037d196e78d3275101f1a51da"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/auth.ts": {
+    "mtime": 1780204600.7389176,
+    "ast_hash": "f89283610e24c337adbf0b4e372d434d",
+    "semantic_hash": "f89283610e24c337adbf0b4e372d434d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/agents/base-agent.ts": {
+    "mtime": 1780204600.738163,
+    "ast_hash": "d93151b2684d87e62ddaaff4eaebc169",
+    "semantic_hash": "d93151b2684d87e62ddaaff4eaebc169"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/agents/product-interviewer.ts": {
+    "mtime": 1780204600.7386022,
+    "ast_hash": "a12fa9bd1cacc98c80b77500cc39a692",
+    "semantic_hash": "a12fa9bd1cacc98c80b77500cc39a692"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/agents/product-explainer.ts": {
+    "mtime": 1780204600.7384615,
+    "ast_hash": "b007b343304811023af977e925c91eb4",
+    "semantic_hash": "b007b343304811023af977e925c91eb4"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/agents/synthesizer-function.ts": {
+    "mtime": 1780204600.738842,
+    "ast_hash": "8bad4747129ab47092306a18df7787b9",
+    "semantic_hash": "8bad4747129ab47092306a18df7787b9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/agents/information-extractor.ts": {
+    "mtime": 1780204600.738342,
+    "ast_hash": "f66be62047ce658aac5c92105111d3d5",
+    "semantic_hash": "f66be62047ce658aac5c92105111d3d5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/services/inbox-populator.ts": {
+    "mtime": 1780204600.7394745,
+    "ast_hash": "210180e425e4f79d19e7cf58d3c2b40d",
+    "semantic_hash": "210180e425e4f79d19e7cf58d3c2b40d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/services/ingestion-service.ts": {
+    "mtime": 1780204600.739632,
+    "ast_hash": "5229404d7706b1040585cd5086765741",
+    "semantic_hash": "5229404d7706b1040585cd5086765741"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/services/pkc-curator.ts": {
+    "mtime": 1780204600.7398362,
+    "ast_hash": "4b81748f2741f672c2e7dcbf1f3b841f",
+    "semantic_hash": "4b81748f2741f672c2e7dcbf1f3b841f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/server/services/pkb-storage.ts": {
+    "mtime": 1780204600.7397308,
+    "ast_hash": "2c954569d0f8ce3010a123e792768ba4",
+    "semantic_hash": "2c954569d0f8ce3010a123e792768ba4"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/shared/schema.ts": {
+    "mtime": 1780204600.7404304,
+    "ast_hash": "e0c8c5a5a16d0d5ffbb6f57d00ae94c5",
+    "semantic_hash": "e0c8c5a5a16d0d5ffbb6f57d00ae94c5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/shared/models/chat.ts": {
+    "mtime": 1780204600.740303,
+    "ast_hash": "f9c1651b499876f69275f614bb499de5",
+    "semantic_hash": "f9c1651b499876f69275f614bb499de5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/script/build.ts": {
+    "mtime": 1780204600.7379575,
+    "ast_hash": "44ef22a29b3bf8db32a3d89bd03e1177",
+    "semantic_hash": "44ef22a29b3bf8db32a3d89bd03e1177"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/.codex/hooks.json": {
+    "mtime": 1780205220.6363256,
+    "ast_hash": "11dc1ddf72ee4944be5be983bc0720b9",
+    "semantic_hash": "11dc1ddf72ee4944be5be983bc0720b9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/postcss.config.mjs": {
+    "mtime": 1780204600.7364156,
+    "ast_hash": "b7941c02b947e17ae32f67ae7e664ec8",
+    "semantic_hash": "b7941c02b947e17ae32f67ae7e664ec8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/next.config.mjs": {
+    "mtime": 1780204600.7360935,
+    "ast_hash": "21958f5752add43cc47ab0ff5172cd46",
+    "semantic_hash": "21958f5752add43cc47ab0ff5172cd46"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/tailwind.config.ts": {
+    "mtime": 1780204600.7364817,
+    "ast_hash": "56905d2463187f39b5b23e0831120ab9",
+    "semantic_hash": "56905d2463187f39b5b23e0831120ab9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/package.json": {
+    "mtime": 1780204600.736361,
+    "ast_hash": "ba7fc28ec13126858549c5c0155d7932",
+    "semantic_hash": "ba7fc28ec13126858549c5c0155d7932"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/tsconfig.json": {
+    "mtime": 1780204600.7365365,
+    "ast_hash": "570e85507d1fb0c609255b9a0aa95595",
+    "semantic_hash": "570e85507d1fb0c609255b9a0aa95595"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/app/layout.tsx": {
+    "mtime": 1780204600.735392,
+    "ast_hash": "1d1c6e11a53d7fa74ebbee93fe4f5482",
+    "semantic_hash": "1d1c6e11a53d7fa74ebbee93fe4f5482"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/app/page.tsx": {
+    "mtime": 1780204600.7355297,
+    "ast_hash": "5b34a28f5ca78ef357b55c2c362a313a",
+    "semantic_hash": "5b34a28f5ca78ef357b55c2c362a313a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/app/why/page.tsx": {
+    "mtime": 1780204600.7358632,
+    "ast_hash": "bb5082e618783eb7feac7f06bb140086",
+    "semantic_hash": "bb5082e618783eb7feac7f06bb140086"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/app/roadmap/page.tsx": {
+    "mtime": 1780204600.735643,
+    "ast_hash": "d3ae459743be5a2013422be731359eb1",
+    "semantic_hash": "d3ae459743be5a2013422be731359eb1"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/app/story/page.tsx": {
+    "mtime": 1780204600.735755,
+    "ast_hash": "5654a9926520ab055a54113536e70de9",
+    "semantic_hash": "5654a9926520ab055a54113536e70de9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/components/StatusTable.tsx": {
+    "mtime": 1780204600.7360377,
+    "ast_hash": "f157c7477076e20f8ed9f95755195047",
+    "semantic_hash": "f157c7477076e20f8ed9f95755195047"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/components/Sidebar.tsx": {
+    "mtime": 1780204600.7359738,
+    "ast_hash": "f86f6731482f938f1e14421e9f4acb8d",
+    "semantic_hash": "f86f6731482f938f1e14421e9f4acb8d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/replit_integrations/audio/useVoiceStream.ts": {
+    "mtime": 1780204600.722908,
+    "ast_hash": "b609fe63e889d00da2876b64d17bc3f8",
+    "semantic_hash": "b609fe63e889d00da2876b64d17bc3f8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/replit_integrations/audio/useVoiceRecorder.ts": {
+    "mtime": 1780204600.7228456,
+    "ast_hash": "503828ac165c1a94b0691187eae6bc1b",
+    "semantic_hash": "503828ac165c1a94b0691187eae6bc1b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/replit_integrations/audio/useAudioPlayback.ts": {
+    "mtime": 1780204600.7227905,
+    "ast_hash": "effdaae203af2f42a5e343c790100f05",
+    "semantic_hash": "effdaae203af2f42a5e343c790100f05"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/replit_integrations/audio/index.ts": {
+    "mtime": 1780204600.7227309,
+    "ast_hash": "ca1bddb17c011cc7a8558bcb5de0ba6b",
+    "semantic_hash": "ca1bddb17c011cc7a8558bcb5de0ba6b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/replit_integrations/audio/audio-utils.ts": {
+    "mtime": 1780204600.7226775,
+    "ast_hash": "2fdbc267ea9f8f5600449a65df63f38b",
+    "semantic_hash": "2fdbc267ea9f8f5600449a65df63f38b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/replit_integrations/audio/audio-playback-worklet.js": {
+    "mtime": 1780204600.7226193,
+    "ast_hash": "3fb75688f7b1d6d8bd79adb38063792f",
+    "semantic_hash": "3fb75688f7b1d6d8bd79adb38063792f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/App.tsx": {
+    "mtime": 1780204600.723015,
+    "ast_hash": "c87039f2089be61014c5fa364071508d",
+    "semantic_hash": "c87039f2089be61014c5fa364071508d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/main.tsx": {
+    "mtime": 1780204600.7290325,
+    "ast_hash": "0da263f654e858856022667237989393",
+    "semantic_hash": "0da263f654e858856022667237989393"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/contexts/MinimalModeContext.tsx": {
+    "mtime": 1780204600.7285433,
+    "ast_hash": "ad7af5ea3173a9e4374c611f924f01c6",
+    "semantic_hash": "ad7af5ea3173a9e4374c611f924f01c6"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/theme-provider.tsx": {
+    "mtime": 1780204600.7252629,
+    "ast_hash": "7877d94f3951f179f63714ea8b4ee89b",
+    "semantic_hash": "7877d94f3951f179f63714ea8b4ee89b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/review-inbox.tsx": {
+    "mtime": 1780204600.7246897,
+    "ast_hash": "e4a1dec12bc2847b9b0d77607c82b9d1",
+    "semantic_hash": "e4a1dec12bc2847b9b0d77607c82b9d1"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/product-type-selector.tsx": {
+    "mtime": 1780204600.7245677,
+    "ast_hash": "f2772b59aa91fdbcd377261011b54cae",
+    "semantic_hash": "f2772b59aa91fdbcd377261011b54cae"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/KaizenMark.tsx": {
+    "mtime": 1780204600.7233086,
+    "ast_hash": "fab09e9544d549a0e4e897e6ddd7883e",
+    "semantic_hash": "fab09e9544d549a0e4e897e6ddd7883e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ProductCard.tsx": {
+    "mtime": 1780204600.723502,
+    "ast_hash": "96e20e9e195828aff15bea43feab3fde",
+    "semantic_hash": "96e20e9e195828aff15bea43feab3fde"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/MinimalModeToggle.tsx": {
+    "mtime": 1780204600.7233672,
+    "ast_hash": "1d8f8f9a6981d0758b62a721343984e4",
+    "semantic_hash": "1d8f8f9a6981d0758b62a721343984e4"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/document-upload.tsx": {
+    "mtime": 1780204600.7240663,
+    "ast_hash": "3f84473110ffbefc52f544ab1911b8b3",
+    "semantic_hash": "3f84473110ffbefc52f544ab1911b8b3"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/processing-overlay.tsx": {
+    "mtime": 1780204600.7245002,
+    "ast_hash": "3ce4e7a3757ba9e4ccafdec46be08850",
+    "semantic_hash": "3ce4e7a3757ba9e4ccafdec46be08850"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/pkb-knowledge-view.tsx": {
+    "mtime": 1780204600.7244399,
+    "ast_hash": "ff63ab0679fb7fc3ae6561fd7d659a40",
+    "semantic_hash": "ff63ab0679fb7fc3ae6561fd7d659a40"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/particle-background.tsx": {
+    "mtime": 1780204600.7242856,
+    "ast_hash": "44b7632e808179832f25168d260b09bd",
+    "semantic_hash": "44b7632e808179832f25168d260b09bd"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/gap-fill-dialog.tsx": {
+    "mtime": 1780204600.7241697,
+    "ast_hash": "72f797ba43bb9f8b65446a81d4579dd2",
+    "semantic_hash": "72f797ba43bb9f8b65446a81d4579dd2"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/AddProductModal.tsx": {
+    "mtime": 1780204600.7232494,
+    "ast_hash": "e8611f21cac63b5f4b2d69df3208ce21",
+    "semantic_hash": "e8611f21cac63b5f4b2d69df3208ce21"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/confidence-bar.tsx": {
+    "mtime": 1780204600.7237306,
+    "ast_hash": "59a1b847c4f9b39fbe98927a3db1cfb2",
+    "semantic_hash": "59a1b847c4f9b39fbe98927a3db1cfb2"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/mode-toggle.tsx": {
+    "mtime": 1780204600.7242267,
+    "ast_hash": "34b5a8ee25f1d631d7b3edd101ccf7a7",
+    "semantic_hash": "34b5a8ee25f1d631d7b3edd101ccf7a7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/confidence-display.tsx": {
+    "mtime": 1780204600.723801,
+    "ast_hash": "a62b280051bacbfba0ef21ab2983d95d",
+    "semantic_hash": "a62b280051bacbfba0ef21ab2983d95d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/theme-toggle.tsx": {
+    "mtime": 1780204600.7253268,
+    "ast_hash": "8ddda131dbbdf99accc448d9c391a1f3",
+    "semantic_hash": "8ddda131dbbdf99accc448d9c391a1f3"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/chat-input.tsx": {
+    "mtime": 1780204600.7235653,
+    "ast_hash": "1833b97aa5a59f8977a3da7fb81b607c",
+    "semantic_hash": "1833b97aa5a59f8977a3da7fb81b607c"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/dashboard-tutorial.tsx": {
+    "mtime": 1780204600.723934,
+    "ast_hash": "476de3fd30bd977f8ed81397ff1b199f",
+    "semantic_hash": "476de3fd30bd977f8ed81397ff1b199f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/chat-message.tsx": {
+    "mtime": 1780204600.7236457,
+    "ast_hash": "cae2b72417a4059da219c0fbd8792106",
+    "semantic_hash": "cae2b72417a4059da219c0fbd8792106"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/tabs/KnowledgeTab.tsx": {
+    "mtime": 1780204600.7251017,
+    "ast_hash": "5554a3a162df7c6577894b39556d0410",
+    "semantic_hash": "5554a3a162df7c6577894b39556d0410"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/tabs/DocumentsTab.tsx": {
+    "mtime": 1780204600.724966,
+    "ast_hash": "5656631b160d1d459ddb5105d16989d6",
+    "semantic_hash": "5656631b160d1d459ddb5105d16989d6"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/tabs/PersonasTab.tsx": {
+    "mtime": 1780204600.7252052,
+    "ast_hash": "cab30454c36acd34992beba45cd5d29f",
+    "semantic_hash": "cab30454c36acd34992beba45cd5d29f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/tabs/ChatTab.tsx": {
+    "mtime": 1780204600.724885,
+    "ast_hash": "52328a6a8b3060ba3979514a8e9605a4",
+    "semantic_hash": "52328a6a8b3060ba3979514a8e9605a4"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/aspect-ratio.tsx": {
+    "mtime": 1780204600.7256281,
+    "ast_hash": "ea9c6ff6c2931b5089972bfba3fa5c1f",
+    "semantic_hash": "ea9c6ff6c2931b5089972bfba3fa5c1f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/alert-dialog.tsx": {
+    "mtime": 1780204600.7254925,
+    "ast_hash": "aca8996e4020285a789d58348abce552",
+    "semantic_hash": "aca8996e4020285a789d58348abce552"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/pagination.tsx": {
+    "mtime": 1780204600.7270708,
+    "ast_hash": "de159ac89490951ee82b4991f604e394",
+    "semantic_hash": "de159ac89490951ee82b4991f604e394"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/tabs.tsx": {
+    "mtime": 1780204600.7281146,
+    "ast_hash": "edad06f905be7a7e3634fdbe1b6ad61a",
+    "semantic_hash": "edad06f905be7a7e3634fdbe1b6ad61a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/card.tsx": {
+    "mtime": 1780204600.725985,
+    "ast_hash": "a240ab96da0cf8f99c343b4caa4c940b",
+    "semantic_hash": "a240ab96da0cf8f99c343b4caa4c940b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/slider.tsx": {
+    "mtime": 1780204600.7277668,
+    "ast_hash": "ccbb4f4470af296eafa94f9972e8a4f9",
+    "semantic_hash": "ccbb4f4470af296eafa94f9972e8a4f9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/popover.tsx": {
+    "mtime": 1780204600.7271228,
+    "ast_hash": "fc70a6c55ac2e65fef3344cdb78a3258",
+    "semantic_hash": "fc70a6c55ac2e65fef3344cdb78a3258"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/progress.tsx": {
+    "mtime": 1780204600.7271829,
+    "ast_hash": "f99d4c689a0cac272cb0b1e7ea222ba8",
+    "semantic_hash": "f99d4c689a0cac272cb0b1e7ea222ba8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/toaster.tsx": {
+    "mtime": 1780204600.728286,
+    "ast_hash": "d0e062810c47a46b9bb4e8ea19875a02",
+    "semantic_hash": "d0e062810c47a46b9bb4e8ea19875a02"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/input-otp.tsx": {
+    "mtime": 1780204600.7267466,
+    "ast_hash": "084089343296a7ebcb40fff14c62cb30",
+    "semantic_hash": "084089343296a7ebcb40fff14c62cb30"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/chart.tsx": {
+    "mtime": 1780204600.7261724,
+    "ast_hash": "ce394cb95f74debc23ac7da089a9e9e8",
+    "semantic_hash": "ce394cb95f74debc23ac7da089a9e9e8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/hover-card.tsx": {
+    "mtime": 1780204600.7266908,
+    "ast_hash": "9c543f39ce8b5e87b91b56ede3c15716",
+    "semantic_hash": "9c543f39ce8b5e87b91b56ede3c15716"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/sheet.tsx": {
+    "mtime": 1780204600.727517,
+    "ast_hash": "9ef21bceff143bfe214ff398ec382dc5",
+    "semantic_hash": "9ef21bceff143bfe214ff398ec382dc5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/scroll-area.tsx": {
+    "mtime": 1780204600.727351,
+    "ast_hash": "c4d63c56a99feb600ed0e9bbcfd70829",
+    "semantic_hash": "c4d63c56a99feb600ed0e9bbcfd70829"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/resizable.tsx": {
+    "mtime": 1780204600.7273004,
+    "ast_hash": "53861a766e45ed3c530825a22be2a1af",
+    "semantic_hash": "53861a766e45ed3c530825a22be2a1af"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/label.tsx": {
+    "mtime": 1780204600.7268562,
+    "ast_hash": "7ea839d3fa873fb063a9709a79e47561",
+    "semantic_hash": "7ea839d3fa873fb063a9709a79e47561"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/navigation-menu.tsx": {
+    "mtime": 1780204600.7270212,
+    "ast_hash": "35df5feb9adcc02afdcaa2a1e62f673d",
+    "semantic_hash": "35df5feb9adcc02afdcaa2a1e62f673d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/accordion.tsx": {
+    "mtime": 1780204600.725424,
+    "ast_hash": "1543fc386d0aba4654f3199bf017eaab",
+    "semantic_hash": "1543fc386d0aba4654f3199bf017eaab"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/drawer.tsx": {
+    "mtime": 1780204600.7265146,
+    "ast_hash": "5d1fc2e6dcd8496d69a68a23a9e251e7",
+    "semantic_hash": "5d1fc2e6dcd8496d69a68a23a9e251e7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/tooltip.tsx": {
+    "mtime": 1780204600.7284403,
+    "ast_hash": "85d30b3088cec0a31929176709b73383",
+    "semantic_hash": "85d30b3088cec0a31929176709b73383"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/alert.tsx": {
+    "mtime": 1780204600.7255652,
+    "ast_hash": "48dac79c18e0c3ff687c320c6fcf1590",
+    "semantic_hash": "48dac79c18e0c3ff687c320c6fcf1590"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/switch.tsx": {
+    "mtime": 1780204600.7278183,
+    "ast_hash": "1210b13831d433e8a9488bab91432dd4",
+    "semantic_hash": "1210b13831d433e8a9488bab91432dd4"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/calendar.tsx": {
+    "mtime": 1780204600.7259276,
+    "ast_hash": "9e04815909cde8531b7f642674b6c45d",
+    "semantic_hash": "9e04815909cde8531b7f642674b6c45d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/breadcrumb.tsx": {
+    "mtime": 1780204600.7258184,
+    "ast_hash": "60485fccd28b1bb7690978d2f0ea91a7",
+    "semantic_hash": "60485fccd28b1bb7690978d2f0ea91a7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/radio-group.tsx": {
+    "mtime": 1780204600.727244,
+    "ast_hash": "3ace644678cd101153deee82d72048d9",
+    "semantic_hash": "3ace644678cd101153deee82d72048d9"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/command.tsx": {
+    "mtime": 1780204600.7263386,
+    "ast_hash": "37f4eff9a1d2ae270d94406747e58b83",
+    "semantic_hash": "37f4eff9a1d2ae270d94406747e58b83"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/toggle-group.tsx": {
+    "mtime": 1780204600.728337,
+    "ast_hash": "b99319e56880c541f7bef8fa76f3ed5f",
+    "semantic_hash": "b99319e56880c541f7bef8fa76f3ed5f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/avatar.tsx": {
+    "mtime": 1780204600.7256927,
+    "ast_hash": "404050b77e8b880d3f1c4a3bc6b4be86",
+    "semantic_hash": "404050b77e8b880d3f1c4a3bc6b4be86"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/menubar.tsx": {
+    "mtime": 1780204600.7269647,
+    "ast_hash": "d3a68e5d4ce8cc6bd9d58f1a187fc3e5",
+    "semantic_hash": "d3a68e5d4ce8cc6bd9d58f1a187fc3e5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/dialog.tsx": {
+    "mtime": 1780204600.7264576,
+    "ast_hash": "1cee7ad259ba50554280a78f4a280f8c",
+    "semantic_hash": "1cee7ad259ba50554280a78f4a280f8c"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/badge.tsx": {
+    "mtime": 1780204600.7257583,
+    "ast_hash": "4782fd467c5e864d0b6cbd5781b947cb",
+    "semantic_hash": "4782fd467c5e864d0b6cbd5781b947cb"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/sidebar.tsx": {
+    "mtime": 1780204600.7276547,
+    "ast_hash": "f8e10dfb7187ee01473839838d33016e",
+    "semantic_hash": "f8e10dfb7187ee01473839838d33016e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/table.tsx": {
+    "mtime": 1780204600.7278686,
+    "ast_hash": "efdbaeb9710b2f60de7c0e18bd4e3528",
+    "semantic_hash": "efdbaeb9710b2f60de7c0e18bd4e3528"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/separator.tsx": {
+    "mtime": 1780204600.7274566,
+    "ast_hash": "e970901b62fe8b73d2b9254fad77f583",
+    "semantic_hash": "e970901b62fe8b73d2b9254fad77f583"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/button.tsx": {
+    "mtime": 1780204600.7258754,
+    "ast_hash": "5e47bb94d347cf1b7eace6c0627eff0f",
+    "semantic_hash": "5e47bb94d347cf1b7eace6c0627eff0f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/toggle.tsx": {
+    "mtime": 1780204600.7283852,
+    "ast_hash": "17efd9d1af4deef76b194dcbf33aea85",
+    "semantic_hash": "17efd9d1af4deef76b194dcbf33aea85"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/toast.tsx": {
+    "mtime": 1780204600.7282357,
+    "ast_hash": "6b9ed7f669208f6631d1c44bbd556877",
+    "semantic_hash": "6b9ed7f669208f6631d1c44bbd556877"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/checkbox.tsx": {
+    "mtime": 1780204600.7262278,
+    "ast_hash": "ca06e9d95214f6c4b90a760098d21830",
+    "semantic_hash": "ca06e9d95214f6c4b90a760098d21830"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/collapsible.tsx": {
+    "mtime": 1780204600.726279,
+    "ast_hash": "87cce2923d03d5560ae6838e54e87f60",
+    "semantic_hash": "87cce2923d03d5560ae6838e54e87f60"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/dropdown-menu.tsx": {
+    "mtime": 1780204600.726582,
+    "ast_hash": "05c108175d0e23b617d211f31eefc6da",
+    "semantic_hash": "05c108175d0e23b617d211f31eefc6da"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/select.tsx": {
+    "mtime": 1780204600.7274063,
+    "ast_hash": "35642782a97c650f1dea1314046709e0",
+    "semantic_hash": "35642782a97c650f1dea1314046709e0"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/textarea.tsx": {
+    "mtime": 1780204600.7281792,
+    "ast_hash": "6eb8633e9e461056b9bf88dfaf25fc6d",
+    "semantic_hash": "6eb8633e9e461056b9bf88dfaf25fc6d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/input.tsx": {
+    "mtime": 1780204600.7267973,
+    "ast_hash": "31eae0b7273ea8b1dc8dc5c24e23e0b8",
+    "semantic_hash": "31eae0b7273ea8b1dc8dc5c24e23e0b8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/skeleton.tsx": {
+    "mtime": 1780204600.7277138,
+    "ast_hash": "a5a4d6d5551d4c7feb8176a23e7eb07c",
+    "semantic_hash": "a5a4d6d5551d4c7feb8176a23e7eb07c"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/context-menu.tsx": {
+    "mtime": 1780204600.7263975,
+    "ast_hash": "e13f4d0aa11a5aeccaa8969e9bc28b0b",
+    "semantic_hash": "e13f4d0aa11a5aeccaa8969e9bc28b0b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/form.tsx": {
+    "mtime": 1780204600.7266407,
+    "ast_hash": "1df53cf0afd884a27f799b2ce9917799",
+    "semantic_hash": "1df53cf0afd884a27f799b2ce9917799"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/components/ui/carousel.tsx": {
+    "mtime": 1780204600.7260616,
+    "ast_hash": "005a47594c5c8f09e27f0ed1f02197cd",
+    "semantic_hash": "005a47594c5c8f09e27f0ed1f02197cd"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/hooks/use-mobile.tsx": {
+    "mtime": 1780204600.7286506,
+    "ast_hash": "209b5193af16624cdd89d3591480dd48",
+    "semantic_hash": "209b5193af16624cdd89d3591480dd48"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/hooks/use-toast.ts": {
+    "mtime": 1780204600.7287128,
+    "ast_hash": "bc4be55df07bc8727d5df9ed7799ad64",
+    "semantic_hash": "bc4be55df07bc8727d5df9ed7799ad64"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/lib/utils.ts": {
+    "mtime": 1780204600.7289686,
+    "ast_hash": "5a6fd53fdcf2be529e9cc0b718fde352",
+    "semantic_hash": "5a6fd53fdcf2be529e9cc0b718fde352"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/lib/queryClient.ts": {
+    "mtime": 1780204600.7288947,
+    "ast_hash": "e74600a109de720a18273f3a713d953b",
+    "semantic_hash": "e74600a109de720a18273f3a713d953b"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/pages/dashboard.tsx": {
+    "mtime": 1780204600.729444,
+    "ast_hash": "2e477fce0908426f6db55c4b825f6fdd",
+    "semantic_hash": "2e477fce0908426f6db55c4b825f6fdd"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/pages/OrgSetup.tsx": {
+    "mtime": 1780204600.7291784,
+    "ast_hash": "8572bb213e9b8f7cce9e17f038df8543",
+    "semantic_hash": "8572bb213e9b8f7cce9e17f038df8543"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/pages/product-workspace.tsx": {
+    "mtime": 1780204600.7299907,
+    "ast_hash": "84a97a0b220b10763946a286b66063ef",
+    "semantic_hash": "84a97a0b220b10763946a286b66063ef"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/pages/Welcome.tsx": {
+    "mtime": 1780209230.3890631,
+    "ast_hash": "029c3ca50bb916c136476160dbcb0914",
+    "semantic_hash": "029c3ca50bb916c136476160dbcb0914"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/pages/not-found.tsx": {
+    "mtime": 1780204600.7296803,
+    "ast_hash": "552270d5f49df4a79bc936f4c405f4b5",
+    "semantic_hash": "552270d5f49df4a79bc936f4c405f4b5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/orchestral-ai-map.html": {
+    "mtime": 1780204600.7368114,
+    "ast_hash": "4a423105321c6eecd4fad108f221ccc8",
+    "semantic_hash": "4a423105321c6eecd4fad108f221ccc8"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/agent-architecture.html": {
+    "mtime": 1780204600.7147815,
+    "ast_hash": "7babe7ed2b72ccc900967d46f2f234b7",
+    "semantic_hash": "7babe7ed2b72ccc900967d46f2f234b7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/dashboard-preview.html": {
+    "mtime": 1780204600.7303312,
+    "ast_hash": "56fb9f36b4ba2a7b50066fe4a21ee9c4",
+    "semantic_hash": "56fb9f36b4ba2a7b50066fe4a21ee9c4"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/AGENTS.md": {
+    "mtime": 1780206448.4399981,
+    "ast_hash": "e0122eec741afd717ea30340db249c66",
+    "semantic_hash": "e0122eec741afd717ea30340db249c66"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/CLAUDE.md": {
+    "mtime": 1780205372.8708513,
+    "ast_hash": "e624750cb5afc864716eb8238bdfd39e",
+    "semantic_hash": "e624750cb5afc864716eb8238bdfd39e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/Claude --.html": {
+    "mtime": 1780204600.6916242,
+    "ast_hash": "02a7cf7fdf061db0b9383465fcc04f2f",
+    "semantic_hash": "02a7cf7fdf061db0b9383465fcc04f2f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/Dashboard.html": {
+    "mtime": 1780204600.6919844,
+    "ast_hash": "49efbd855ab3efa3ba8c5a920f058519",
+    "semantic_hash": "49efbd855ab3efa3ba8c5a920f058519"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/index.html": {
+    "mtime": 1780204600.700554,
+    "ast_hash": "f5edcebc2ffaa11370b7276f99a7e186",
+    "semantic_hash": "f5edcebc2ffaa11370b7276f99a7e186"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/README.md": {
+    "mtime": 1780204600.697044,
+    "ast_hash": "f4883400a888785b401ba15288cda0f7",
+    "semantic_hash": "f4883400a888785b401ba15288cda0f7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/public/robots.txt": {
+    "mtime": 1780204600.7033496,
+    "ast_hash": "f9dff89adf98833e676de2205921996a",
+    "semantic_hash": "f9dff89adf98833e676de2205921996a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Claude md evolution/Before V5.md": {
+    "mtime": 1780204600.6813385,
+    "ast_hash": "564224e8e567edd85535f40d58cd58c7",
+    "semantic_hash": "564224e8e567edd85535f40d58cd58c7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Claude md evolution/claude md before v2.txt": {
+    "mtime": 1780204600.6817532,
+    "ast_hash": "c4bf80dcec11f927bd9c2f61a303c281",
+    "semantic_hash": "c4bf80dcec11f927bd9c2f61a303c281"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/.agents/skills/graphify/SKILL.md": {
+    "mtime": 1780205220.6354296,
+    "ast_hash": "960d770f159b5917d87dc28b8a75536a",
+    "semantic_hash": "960d770f159b5917d87dc28b8a75536a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/Pasted-Product-Knowledge-Core-PKC-Builder-s-Description-What-P_1768926302944.txt": {
+    "mtime": 1780204600.7150114,
+    "ast_hash": "bc532929e0b3b21554e8c742df51e6ca",
+    "semantic_hash": "bc532929e0b3b21554e8c742df51e6ca"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/Pasted--1-PKB-Schema-v0-1-Core-Extensions-Derived-Top-level-la_1768927365775.txt": {
+    "mtime": 1780204600.7149282,
+    "ast_hash": "fcd1a4138ce0141a0fcb9fe915483991",
+    "semantic_hash": "fcd1a4138ce0141a0fcb9fe915483991"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/Pasted-Product-Knowledge-Core-PKC-Builder-s-Description-What-P_1768926313469.txt": {
+    "mtime": 1780204600.7151265,
+    "ast_hash": "bc532929e0b3b21554e8c742df51e6ca",
+    "semantic_hash": "bc532929e0b3b21554e8c742df51e6ca"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-site-cc-prompt.md": {
+    "mtime": 1780204600.7366586,
+    "ast_hash": "329e1c2d6f139ace3e8dd91a3b553a54",
+    "semantic_hash": "329e1c2d6f139ace3e8dd91a3b553a54"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/kaizen-docs/README.md": {
+    "mtime": 1780204600.7317636,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": "f15aaa42d5d299d091b1171097ea56ad"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/index.html": {
+    "mtime": 1780204600.7209673,
+    "ast_hash": "c63c40f7167fb457a2b9d928f6892a1d",
+    "semantic_hash": "c63c40f7167fb457a2b9d928f6892a1d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Kaizen.png": {
+    "mtime": 1780204600.7143602,
+    "ast_hash": "4a33ba20a0090f2bb9ddd65ad7ef95e6",
+    "semantic_hash": "4a33ba20a0090f2bb9ddd65ad7ef95e6"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/Design prototypes/radiant-ui-main/public/placeholder.svg": {
+    "mtime": 1780204600.7032866,
+    "ast_hash": "35707bd9960ba5281c72af927b79291f",
+    "semantic_hash": "35707bd9960ba5281c72af927b79291f"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/image_1768991436536.png": {
+    "mtime": 1780204600.719295,
+    "ast_hash": "aa55030c9cda59b5216fdfa0d7fe1444",
+    "semantic_hash": "aa55030c9cda59b5216fdfa0d7fe1444"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/image_1768991056082.png": {
+    "mtime": 1780204600.7182844,
+    "ast_hash": "de195b95155e7e91e6476a66545fca75",
+    "semantic_hash": "de195b95155e7e91e6476a66545fca75"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/image_1768990327778.png": {
+    "mtime": 1780204600.718083,
+    "ast_hash": "7e1745041578c5ca69c5ec2b3a42b981",
+    "semantic_hash": "7e1745041578c5ca69c5ec2b3a42b981"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/image_1768991571706.png": {
+    "mtime": 1780204600.7208397,
+    "ast_hash": "bb2318d1cfd871d0dc1cdc7cb4337ce5",
+    "semantic_hash": "bb2318d1cfd871d0dc1cdc7cb4337ce5"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/image_1768991275649.png": {
+    "mtime": 1780204600.7185621,
+    "ast_hash": "ecf482245da37b2e002063f54c036498",
+    "semantic_hash": "ecf482245da37b2e002063f54c036498"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/attached_assets/Screenshot_2026-01-20_194736_1768926050077.png": {
+    "mtime": 1780204600.7177727,
+    "ast_hash": "cca8becbda31273e0e48a42ef25fdf7a",
+    "semantic_hash": "cca8becbda31273e0e48a42ef25fdf7a"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/kaizen website/Kaizen.png": {
+    "mtime": 1780204600.7315166,
+    "ast_hash": "4a33ba20a0090f2bb9ddd65ad7ef95e6",
+    "semantic_hash": "4a33ba20a0090f2bb9ddd65ad7ef95e6"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/public/favicon.png": {
+    "mtime": 1780204600.7210724,
+    "ast_hash": "ed6740d90cd839744d48523d4991a6f7",
+    "semantic_hash": "ed6740d90cd839744d48523d4991a6f7"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/public/kaizen logo.jpg": {
+    "mtime": 1780204600.722484,
+    "ast_hash": "0ed5151d1af0a96c04094e5040bab745",
+    "semantic_hash": "0ed5151d1af0a96c04094e5040bab745"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/public/favicon.svg": {
+    "mtime": 1780204600.7211354,
+    "ast_hash": "1292769609ac326713de6c5eb987e6b2",
+    "semantic_hash": "1292769609ac326713de6c5eb987e6b2"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/assets/kaizen-logo.svg": {
+    "mtime": 1780204600.7231295,
+    "ast_hash": "901efae62dca6b7a4ff8a10da700268e",
+    "semantic_hash": "901efae62dca6b7a4ff8a10da700268e"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/client/src/pages/login.tsx": {
+    "mtime": 1780209197.4104693,
+    "ast_hash": "e9e508333498940d03fe37599d11504d",
+    "semantic_hash": "e9e508333498940d03fe37599d11504d"
+  },
+  "/Users/anuj/Documents/Claude Code Projects/Kaizen- Anuj/docs/prd/2026-05-31-kaizen-marketing-agent-mvp.md": {
+    "mtime": 1780206437.5870037,
+    "ast_hash": "131f19f16b47d9b3fd0943ab127f1529",
+    "semantic_hash": "131f19f16b47d9b3fd0943ab127f1529"
+  }
+}

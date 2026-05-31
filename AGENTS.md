@@ -17,6 +17,12 @@ Deploy to Railway + rate limiting
 
 **Orchestral-AI** is an AI-powered product knowledge platform (PKB/PKC system). An Organisation is the top-level container (the "Central Intelligence") — it holds a shared org PKB inherited by all products inside it. Each product has its own PKB, personas, documents, and inbox. Chat sessions are personal per user but draw from both the shared org PKB and the product PKB.
 
+## Product Direction PRD
+
+The strategic product direction is captured in `docs/prd/2026-05-31-kaizen-marketing-agent-mvp.md`.
+
+Current product wedge: Kaizen Marketing Agent for D2C/ecommerce and visual SMEs. The first launch should help brands build Brand Memory + Product / Offer Catalog, generate one sample creative, collect feedback, then batch-generate Meta-ready videos, posters/images, captions, and ad copy. Keep the architecture extensible for future org-led agents and workflows such as catalog creation, onboarding, GTM, sales/support enablement, and performance learning.
+
 ---
 
 ## Build & Development Commands
@@ -669,3 +675,15 @@ These items were planned for V2 but intentionally deferred. Do not implement wit
 - Rename stored field from `session_id` to `product_id` in PKB JSON
 - Cosmetic/hygiene only, deferred
 
+## graphify
+
+This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
+
+When the user types `/graphify`, invoke the `skill` tool with `skill: "graphify"` before doing anything else.
+
+Rules:
+- For codebase questions, first run `graphify query "<question>"` when graphify-out/graph.json exists. Use `graphify path "<A>" "<B>"` for relationships and `graphify explain "<concept>"` for focused concepts. These return a scoped subgraph, usually much smaller than GRAPH_REPORT.md or raw grep output.
+- Dirty graphify-out/ files are expected after hooks or incremental updates; dirty graph files are not a reason to skip graphify. Only skip graphify if the task is about stale or incorrect graph output, or the user explicitly says not to use it.
+- If graphify-out/wiki/index.md exists, use it for broad navigation instead of raw source browsing.
+- Read graphify-out/GRAPH_REPORT.md only for broad architecture review or when query/path/explain do not surface enough context.
+- After modifying code, run `graphify update .` to keep the graph current (AST-only, no API cost).
